@@ -1,3 +1,3 @@
 # Getting Started with Create React App
 
-##using eslint , airbnb
+## using eslint , airbnb
